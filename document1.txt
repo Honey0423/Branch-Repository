@@ -1,3 +1,6 @@
+print("안녕하세요~")
+
+
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
